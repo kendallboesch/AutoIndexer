@@ -1,0 +1,44 @@
+<3>
+Preface:
+
+Advanced Data Structures and Algorithm Implementation is a new exciting text from Mustang Publishers aimed at upper division
+undergraduate courses or introductory graduate courses.
+<4>
+Some of the topics covered are:
+* Fast String Matching
+* B+ Tree Implementation
+* A* Graph Traversal
+<10>
+In a B+ Tree, the leaf nodes are connected as a doubly linked list.
+<90>
+b+ Tree
+algorithm b+ Tree
+          algorithm
+          analysis
+          doubly linked list
+          A* algorithm
+          Tree traversal
+<7>
+analysis
+doubly linked list
+A* algorithm
+Tree traversal
+<17>
+<6>
+Memory diagrams are very hard for me tbh. When I made my cheat sheet on the Data structures test I really just
+Copied memory diagrams to reference.
+<-1>
+<3>
+Preface:
+
+Advanced Data Structures and Algorithm Implementation is a new exciting text from Mustang Publishers aimed at upper division
+undergraduate courses or introductory graduate courses.
+<4>
+Some of the topics covered are:
+* Fast String Matching
+* B+ Tree Implementation
+* A* Graph Traversal
+<10>
+In a B+ Tree, the leaf nodes are connected as a doubly linked list.
+Advanced Data Structures and Algorithm Implementation is a new exciting text from Mustang Publishers aimed at upper division
+<-1>
